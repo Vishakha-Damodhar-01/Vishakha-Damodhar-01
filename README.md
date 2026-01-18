@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishakha Bhagwan Damodhar 🌟👩‍💻</h1>
 <h3 align="center">A passionate Artificial intelligence and Machine learning perspective Software Engineer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishakha-damodhar-01&label=Profile%20views&color=0e75b6&style=flat" alt="vishakha-damodhar-01" /> </p>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=vishakha-damodhar-01&label=Profile%20views&color=0e75b6&style=flat" alt="vishakha-damodhar-01" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishakha-damodhar-01" alt="vishakha-damodhar-01" /></a> </p>
 
 - 🌱 I’m currently learning **Modern Web Development FastAPI & Backend APIs Machine Learning & NLP Data Analytics & Visualization Google Cloud & AI tools**
 
