@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning   **Modern Web Development FastAPI & Backend APIs Machine Learning & NLP Data Analytics & Visualization Google Cloud & AI tools**
 
-- 👯 I’m looking to collaborate on   **AI / ML Projects (NLP, Chatbots, Recommendation Systems)**
+- 👯 I’m looking to collaborate on   **AI / ML Projects **
 
 - 👨‍💻 All of my projects are available at [Vishakha_Damodhar-01](Vishakha_Damodhar-01)
 
