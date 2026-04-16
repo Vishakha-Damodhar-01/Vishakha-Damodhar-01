@@ -17,7 +17,7 @@
 - ⚡ Fun fact   **My code works… after a few commits 😉**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
 <a href="https://linkedin.com/in/vishakha-damodhar" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
@@ -31,7 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
 <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
