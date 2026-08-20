@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Vishakha_Damodhar-01](Vishakha_Damodhar-01)
 
-- 💬 Ask me about   **Python, Full-Stack Web Development Machine Learning & NLP REST APIs Git & GitHub**
+- 💬 Ask me about   **Python, Full-Stack Web Development, Machine Learning & NLP, REST APIs, Git & GitHub**
 
 - 📫 How to reach me   **vishakhadamodhar18@gmail.com**
 
